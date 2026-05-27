@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsecrypt",
+        "uuid": 17542200,
+        "checksum": "lcdgrk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
